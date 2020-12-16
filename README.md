@@ -103,6 +103,7 @@ E:\PycharmProjects>walnuts init
 E:\PycharmProjects>cd user-api-test
 
 E:\PycharmProjects\user-api-test>pip install -r requirements.txt
+
 Looking in indexes: https://pypi.douban.com/simple
 Requirement already satisfied: walnuts in c:\users\administrator\appdata\local\programs\python\python38\lib\site-packages (from -r requirements.txt (line 1)) (0.0.2)
 Requirement already satisfied: flask in c:\users\administrator\appdata\local\programs\python\python38\lib\site-packages (from -r requirements.txt (line 2)) (1.1.2)
